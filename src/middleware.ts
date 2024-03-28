@@ -15,6 +15,8 @@ export default authMiddleware({
     "/users/sign-up",
     "/users/sign-in/[[...sign-in]]",
     "/users/sign-up/[[...sign-up]]",
+    "/select-org",
+    "/select-org/[[...select-org]]",
   ],
 });
 
