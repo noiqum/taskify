@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 
-export const siteConfig = {
+const siteConfig = {
   name: "Taskify",
   description: "Collaborate, manage projects, and reach new productivity peaks",
 };
